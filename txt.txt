@@ -1,0 +1,20 @@
+Tipos de Variaveis
+
+"Int" = Armazena Apenas Números Inteiros.
+					(4 bytes)
+"long int" =  Armazena número inteiros longos.
+
+Char = Armazena apenas um unico caracter, como uma letra ou um número, por exemplo.(4 bytes)
+
+Float = Armazena numeros de ponto flutuante, ou seja, numeros decimais, porém com pouca precisão.(4 bytes)
+
+Double = Armazena numeros de ponto flutuante, com
+muita precisão.(8bytes)
+
+4bytes=32bits / 8bytes=64bits
+
+___________________________________________________
+Variavel Global pode estar fora das funções e pode ser utilizada em todo código
+
+Variavel Local só pode ser utilizada na própria função;
+____________________________________________________
